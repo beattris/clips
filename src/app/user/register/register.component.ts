@@ -13,7 +13,7 @@ export class RegisterComponent {
     email: new FormControl(''), 
     age: new FormControl(''),
     password: new FormControl(''),
-    conformPassword: new FormControl(''),
+    confirmPassword: new FormControl(''),
     phoneNumber: new FormControl(''),
   }); 
 
